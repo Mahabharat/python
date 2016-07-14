@@ -1,9 +1,4 @@
-print("Enter your name")
-name=input()
-count=0
-
-for l in name:
-    if l in ['a','e','i','o','u']:
-        count+=1
-print("you have",count,"vowels in your name")
-    
+food=['meggi','momo','eggroll','chowmin','paratha']
+for i in food[2:]:
+	print(i);
+	print(len(i))

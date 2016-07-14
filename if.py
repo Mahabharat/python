@@ -1,4 +1,8 @@
-a=15
-if a<15:
-    print("a is less than 15")
-print("bye")
+age=27
+if age is 27:
+	print("you are allowed")
+elif age<21:
+	print("you are not allowed")
+else:
+	print("plz signup!")
+

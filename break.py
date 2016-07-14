@@ -1,10 +1,9 @@
-#it breaks the loop
-var=0
-while(var<=15):
-    var+=1
-    if var is 10:
-        break
-       # continue
-    print(var)
-    
-print("\ngood bye!")
+magicnumber=6
+
+for n in range(101):
+	if n is magicnumber:
+		print n, "is a magic number"#or print()
+		break
+	else:
+		print(n)
+#we use'''..................''' for comment in multiple lines

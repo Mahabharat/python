@@ -1,10 +1,5 @@
-print("Jai Shri Ram")
-str="Partha"
-print(str)
-str1="""Partha
-Pritam
-Paul"""
-print(str1)
-print(5/2)
-print(2**3)
+print("Om Namoh Shivay")
+print(4/2)
+print("Partha"+"Paul")
 print(5//2)
+print(2**3)
